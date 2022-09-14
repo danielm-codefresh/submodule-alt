@@ -10,7 +10,7 @@ spec:
     name: in-cluster
   project: default
   source:
-    path: ../cluster-components/resources
+    path: cluster-components/resources
     repoURL: https://github.com/danielm-codefresh/submodule-alt.git
     targetRevision: main
   syncPolicy:
